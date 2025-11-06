@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial Node.js server using Express.js with two simple GET endpoints demonstrating basic HTTP server functionality",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "tutorial",
+    "rest-api",
+    "http-server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
